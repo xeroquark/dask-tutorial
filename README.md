@@ -1,3 +1,7 @@
+Click here to launch it on Binder!
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/xeroquark/dask-tutorial/master)
+
+
 # Dask Tutorial
 
 This tutorial was last given at SciPy 2017 in Austin Texas.
